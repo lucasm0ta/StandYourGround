@@ -15,9 +15,10 @@ After building, just run it with the command:
     ./JOGO
 
 # Collaborators
-Lucas Mota - Developer
-Felipe da Costa - Developer
-Emille Catarine - Art
-Vitor Teodoro - Art
-Leonardo Bustamante - Art
-Brenda - Musician
+ 
+ * Brenda Holanda - Musician
+ * Emille Catarine - Art
+ * Felipe da Costa - Developer
+ * Leonardo Bustamante - Art
+ * Lucas Mota - Developer
+ * Vitor Teodoro - Art
